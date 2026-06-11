@@ -1,6 +1,6 @@
 # Data Science Report: Hyperliquid Trader Performance vs. Market Sentiment
 
-**Author:** [Your Name] (Data Science Candidate)  
+**Author:** Khundrakpam Bikash Meitei (Data Science Candidate)  
 **Date:** June 12, 2026  
 **Client:** Primetrade.ai Hiring Team  
 
