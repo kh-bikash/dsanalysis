@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore massive merged data file to speed up git pushes
+merged_data.csv
