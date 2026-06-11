@@ -18,8 +18,8 @@ ACCENT_GREEN = '#4CAF50' # Green
 ACCENT_RED = '#E91E63' # Pink/Red
 NEUTRAL_GRAY = '#607D8B' # Blue Gray
 
-# Path to artifacts directory
-ARTIFACT_DIR = r"C:\Users\khbik\.gemini\antigravity-ide\brain\68c85414-9e7d-4b89-ba7b-cc356eb204fa"
+# Path to save charts (current directory)
+ARTIFACT_DIR = "."
 
 def generate_trader_pnl_chart(profiles_df):
     plt.figure(figsize=(10, 5))
